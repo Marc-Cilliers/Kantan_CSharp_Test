@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.Kantan__Test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Kantan_Test/Program.cs">
     <Files>
-      <File FileName="Kantan_Test/Program.cs" Line="35" Column="20" />
-      <File FileName="Kantan_Test/Consumption.cs" Line="19" Column="14" />
+      <File FileName="Kantan_Test/Program.cs" Line="61" Column="1" />
+      <File FileName="Kantan_Test/Consumption.cs" Line="16" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
