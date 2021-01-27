@@ -57,6 +57,7 @@ namespace Kantan_Test
                         prevRow = currRow;
                     }
 
+                    //Add final month
                     prevRow.value -= prevTotal;
                     monthlyData.Add(prevRow);
                     Console.WriteLine("File read & monthly aggregation complete");
