@@ -45,7 +45,7 @@ namespace Kantan_Test
                         Consumption currRow = new Consumption(columns[0], columns[1]);
                         prevRow ??= currRow;
                         
-                        //Check for a change of row
+                        //Check for a change of month
                         if (prevRow.month != currRow.month)
                         {
                             int newPrevTotal = prevRow.value;
