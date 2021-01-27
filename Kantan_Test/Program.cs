@@ -9,15 +9,21 @@ namespace Kantan_Test
     {
         static void Main(string[] args)
         {
-            if (args[0].Length < 1)
+            
+            string currDir = Path.GetDirectoryName(System.Environment.CurrentDirectory);
+            string outputFile = currDir + @"/consumption-output.csv";
+            string inputFile;
+
+            //Get filepath of input data file
+            try
+            {
+                inputFile = args[0];
+            }
+            catch
             {
                 Console.WriteLine("Please pass the filepath of the input file as an argument");
                 return;
             }
-            //Get filepath of input data file
-            string currDir = Path.GetDirectoryName(System.Environment.CurrentDirectory);
-            string inputFile = args[0];
-            string outputFile = currDir + @"/consumption-output.csv";
 
             List<Consumption> monthlyData = new List<Consumption>();
             Consumption prevRow = null;
@@ -55,7 +61,8 @@ namespace Kantan_Test
                     monthlyData.Add(prevRow);
                     Console.WriteLine("File read & monthly aggregation complete");
                 }
-            } catch
+            }
+            catch
             {
                 Console.WriteLine("There was an error with the input file argument. Please check the filepath and try again");
                 return;
