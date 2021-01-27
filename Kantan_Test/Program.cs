@@ -38,7 +38,7 @@ namespace Kantan_Test
 
                         Consumption currRow = new Consumption(columns[0], columns[1]);
                         prevRow ??= currRow;
-
+                        
                         //Check for a change of row
                         if (prevRow.month != currRow.month)
                         {
@@ -51,6 +51,8 @@ namespace Kantan_Test
                         prevRow = currRow;
                     }
 
+                    prevRow.value -= prevTotal;
+                    monthlyData.Add(prevRow);
                     Console.WriteLine("File read & monthly aggregation complete");
                 }
             } catch
