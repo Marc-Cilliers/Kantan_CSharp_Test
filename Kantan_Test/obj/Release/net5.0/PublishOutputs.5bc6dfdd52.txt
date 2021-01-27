@@ -1,0 +1,4 @@
+/Users/marccilliers/Documents/kantan_test/Kantan_Test.dll
+/Users/marccilliers/Documents/kantan_test/Kantan_Test.deps.json
+/Users/marccilliers/Documents/kantan_test/Kantan_Test.runtimeconfig.json
+/Users/marccilliers/Documents/kantan_test/Kantan_Test.pdb

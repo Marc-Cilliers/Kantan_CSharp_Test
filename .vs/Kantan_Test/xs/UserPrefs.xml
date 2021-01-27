@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{99BC3E47-0D6E-4813-9858-F7EC85CFDF8E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Kantan__Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kantan_Test/Program.cs">
+    <Files>
+      <File FileName="Kantan_Test/Program.cs" Line="35" Column="20" />
+      <File FileName="Kantan_Test/Consumption.cs" Line="19" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Kantan_Test" expanded="True">
+            <Node name="Kantan_Test" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

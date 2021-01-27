@@ -1,0 +1,15 @@
+/Users/marccilliers/Projects/Personal/Kantan_Test/Kantan_Test/bin/Release/net5.0/Kantan_Test.deps.json
+/Users/marccilliers/Projects/Personal/Kantan_Test/Kantan_Test/bin/Release/net5.0/Kantan_Test.runtimeconfig.json
+/Users/marccilliers/Projects/Personal/Kantan_Test/Kantan_Test/bin/Release/net5.0/Kantan_Test.runtimeconfig.dev.json
+/Users/marccilliers/Projects/Personal/Kantan_Test/Kantan_Test/bin/Release/net5.0/Kantan_Test.dll
+/Users/marccilliers/Projects/Personal/Kantan_Test/Kantan_Test/bin/Release/net5.0/ref/Kantan_Test.dll
+/Users/marccilliers/Projects/Personal/Kantan_Test/Kantan_Test/bin/Release/net5.0/Kantan_Test.pdb
+/Users/marccilliers/Projects/Personal/Kantan_Test/Kantan_Test/obj/Release/net5.0/Kantan_Test.csprojAssemblyReference.cache
+/Users/marccilliers/Projects/Personal/Kantan_Test/Kantan_Test/obj/Release/net5.0/Kantan_Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marccilliers/Projects/Personal/Kantan_Test/Kantan_Test/obj/Release/net5.0/Kantan_Test.AssemblyInfoInputs.cache
+/Users/marccilliers/Projects/Personal/Kantan_Test/Kantan_Test/obj/Release/net5.0/Kantan_Test.AssemblyInfo.cs
+/Users/marccilliers/Projects/Personal/Kantan_Test/Kantan_Test/obj/Release/net5.0/Kantan_Test.csproj.CoreCompileInputs.cache
+/Users/marccilliers/Projects/Personal/Kantan_Test/Kantan_Test/obj/Release/net5.0/Kantan_Test.dll
+/Users/marccilliers/Projects/Personal/Kantan_Test/Kantan_Test/obj/Release/net5.0/ref/Kantan_Test.dll
+/Users/marccilliers/Projects/Personal/Kantan_Test/Kantan_Test/obj/Release/net5.0/Kantan_Test.pdb
+/Users/marccilliers/Projects/Personal/Kantan_Test/Kantan_Test/obj/Release/net5.0/Kantan_Test.genruntimeconfig.cache
